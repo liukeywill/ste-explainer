@@ -8,8 +8,8 @@ description: 将复杂概念、资料或 AI 工作成果转成便于理解与监
 目标是降低用户理解和检查内容的成本。方法来自用户提供的 Karpathy 原帖：清晰写作、图示、交互网页、定制讲解视频，以及为一次具体理解需求制作可用完即弃的软件产物。
 原帖：https://x.com/karpathy/status/2105819303471976479
 
-统一仓库：https://github.com/liukeywill/skills/tree/main/skills/ste-explainer
-本技能的安装来源和版本更新使用该目录（私有仓库，需要访问权限）；修改本地技能不代表已同步到 GitHub，需在实际上传并核验后才报告同步完成。
+独立仓库：https://github.com/liukeywill/ste-explainer
+本技能的安装来源和版本更新使用本独立公开仓库；修改本地技能不代表已同步到 GitHub，需在实际上传并核验后才报告同步完成。
 
 ## 选择形式
 
